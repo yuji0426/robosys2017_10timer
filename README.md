@@ -3,7 +3,7 @@
 ### About
 
 This is 10s count timer.
-You can check a video at YouTube below the link.
+　　You can check a video at YouTube below the link.
 [![](http://img.youtube.com/vi/lmVNsVrPu68/0.jpg)](https://www.youtube.com/watch?v=lmVNsVrPu68)
 
 
